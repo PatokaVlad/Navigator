@@ -1,0 +1,4 @@
+﻿  NavigatorMain.cpp
+C:\Users\User\Documents\Projects\Navigator\Navigator\NavigatorMain.cpp(293,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\Projects\Navigator\Navigator\NavigatorMain.cpp(361,5): warning C4809: в операторе switch имеется ненужная метка "default"; все возможные метки "case" уже заданы
+  Navigator.vcxproj -> C:\Users\User\Documents\Projects\Navigator\Debug\Navigator.exe
